@@ -2,10 +2,10 @@
 
 ## Face Recognition Step by Step
 
-Step 1: Finding all the Faces
-Step 2: Posing and Projecting Faces
-Step 3: Encoding Faces
-Step 4: Finding the person’s name from the encoding
+* Step 1: Finding all the Faces
+* Step 2: Posing and Projecting Faces
+* Step 3: Encoding Faces
+* Step 4: Finding the person’s name from the encoding
 
 ## Attendance
 
