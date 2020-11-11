@@ -7,7 +7,7 @@ Step 2: Posing and Projecting Faces
 Step 3: Encoding Faces
 Step 4: Finding the person’s name from the encoding
 
-## Attendance project
+## Attendance
 
 Updating the file of attendance with name and time of attendance in case the person appears for the first time.
 
